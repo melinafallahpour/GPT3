@@ -1,3 +1,4 @@
+
 {
   "homepage": "https://melinafallahpour.github.io/GPT3",
   "name": "gpt3",
@@ -43,3 +44,4 @@
     "gh-pages": "^5.0.0"
   }
 }
+"homepage": "https://{melinafallahpour}.github.io/{GPT3}",  
